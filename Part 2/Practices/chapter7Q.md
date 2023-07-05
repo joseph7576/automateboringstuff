@@ -73,7 +73,7 @@ but not the following:
 '12,34,567' (which has only two digits between the commas)
 '1234' (which lacks commas)
 
-    - ^\d{1,3}(,\d{3})*$
+    - ^\d{1,3}(,\d{3})*$ -> I CHEATED - the problem was I didn't care about carots cost dollars :D
 
 21. How would you write a regex that matches the full name of someone whose last name is Watanabe? You can assume that the first name that comes before it will always be one word that begins with a capital letter. The regex must match the following:
 
