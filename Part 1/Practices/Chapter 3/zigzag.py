@@ -23,5 +23,6 @@ try:
             if indent == 0:
                 # Change direction:
                 indentIncreasing = True
+                
 except KeyboardInterrupt:
     sys.exit()
