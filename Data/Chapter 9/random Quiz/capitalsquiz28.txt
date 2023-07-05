@@ -1,0 +1,458 @@
+Name:
+
+Date:
+
+Period:
+
+                    State Capitals Quiz (Form28)
+
+1. What is the capital ofPennsylvania?
+    A. Saint Paul
+
+    B. Harrisburg
+
+    C. Phoenix
+
+    D. Tallahassee
+
+2. What is the capital ofMassachusetts?
+    A. Springfield
+
+    B. Helena
+
+    C. Charleston
+
+    D. Boston
+
+3. What is the capital ofOklahoma?
+    A. Oklahoma City
+
+    B. Helena
+
+    C. Nashville
+
+    D. Bismarck
+
+4. What is the capital ofNebraska?
+    A. Lincoln
+
+    B. Richmond
+
+    C. Topeka
+
+    D. Carson City
+
+5. What is the capital ofWisconsin?
+    A. Montpelier
+
+    B. Dover
+
+    C. Madison
+
+    D. Charleston
+
+6. What is the capital ofMontana?
+    A. Springfield
+
+    B. Helena
+
+    C. Richmond
+
+    D. Atlanta
+
+7. What is the capital ofVirginia?
+    A. Richmond
+
+    B. Springfield
+
+    C. Montgomery
+
+    D. Baton Rouge
+
+8. What is the capital ofArizona?
+    A. Phoenix
+
+    B. Olympia
+
+    C. Bismarck
+
+    D. Raleigh
+
+9. What is the capital ofConnecticut?
+    A. Sacramento
+
+    B. Hartford
+
+    C. Nashville
+
+    D. Columbus
+
+10. What is the capital ofSouth Dakota?
+    A. Pierre
+
+    B. Hartford
+
+    C. Boston
+
+    D. Santa Fe
+
+11. What is the capital ofVermont?
+    A. Boston
+
+    B. Montpelier
+
+    C. Hartford
+
+    D. Santa Fe
+
+12. What is the capital ofIdaho?
+    A. Oklahoma City
+
+    B. Boise
+
+    C. Little Rock
+
+    D. Concord
+
+13. What is the capital ofKentucky?
+    A. Pierre
+
+    B. Frankfort
+
+    C. Montpelier
+
+    D. Olympia
+
+14. What is the capital ofSouth Carolina?
+    A. Columbia
+
+    B. Harrisburg
+
+    C. Topeka
+
+    D. Raleigh
+
+15. What is the capital ofUtah?
+    A. Annapolis
+
+    B. Trenton
+
+    C. Salt Lake City
+
+    D. Jackson
+
+16. What is the capital ofGeorgia?
+    A. Hartford
+
+    B. Boston
+
+    C. Phoenix
+
+    D. Atlanta
+
+17. What is the capital ofNew Jersey?
+    A. Topeka
+
+    B. Trenton
+
+    C. Madison
+
+    D. Sacramento
+
+18. What is the capital ofNew York?
+    A. Saint Paul
+
+    B. Columbus
+
+    C. Madison
+
+    D. Albany
+
+19. What is the capital ofIndiana?
+    A. Indianapolis
+
+    B. Albany
+
+    C. Dover
+
+    D. Richmond
+
+20. What is the capital ofMaine?
+    A. Augusta
+
+    B. Denver
+
+    C. Annapolis
+
+    D. Santa Fe
+
+21. What is the capital ofHawaii?
+    A. Nashville
+
+    B. Honolulu
+
+    C. Boise
+
+    D. Austin
+
+22. What is the capital ofIowa?
+    A. Annapolis
+
+    B. Des Moines
+
+    C. Providence
+
+    D. Little Rock
+
+23. What is the capital ofNew Mexico?
+    A. Cheyenne
+
+    B. Santa Fe
+
+    C. Little Rock
+
+    D. Dover
+
+24. What is the capital ofNew Hampshire?
+    A. Concord
+
+    B. Raleigh
+
+    C. Harrisburg
+
+    D. Topeka
+
+25. What is the capital ofTexas?
+    A. Lansing
+
+    B. Austin
+
+    C. Bismarck
+
+    D. Montpelier
+
+26. What is the capital ofNevada?
+    A. Springfield
+
+    B. Honolulu
+
+    C. Carson City
+
+    D. Columbus
+
+27. What is the capital ofNorth Carolina?
+    A. Augusta
+
+    B. Helena
+
+    C. Harrisburg
+
+    D. Raleigh
+
+28. What is the capital ofMissouri?
+    A. Jefferson City
+
+    B. Salem
+
+    C. Montgomery
+
+    D. Topeka
+
+29. What is the capital ofRhode Island?
+    A. Austin
+
+    B. Lansing
+
+    C. Charleston
+
+    D. Providence
+
+30. What is the capital ofOhio?
+    A. Dover
+
+    B. Columbus
+
+    C. Trenton
+
+    D. Springfield
+
+31. What is the capital ofKansas?
+    A. Augusta
+
+    B. Topeka
+
+    C. Dover
+
+    D. Montpelier
+
+32. What is the capital ofMississippi?
+    A. Indianapolis
+
+    B. Bismarck
+
+    C. Trenton
+
+    D. Jackson
+
+33. What is the capital ofColorado?
+    A. Tallahassee
+
+    B. Olympia
+
+    C. Boston
+
+    D. Denver
+
+34. What is the capital ofMichigan?
+    A. Columbia
+
+    B. Springfield
+
+    C. Lansing
+
+    D. Hartford
+
+35. What is the capital ofAlaska?
+    A. Saint Paul
+
+    B. Tallahassee
+
+    C. Montpelier
+
+    D. Juneau
+
+36. What is the capital ofMinnesota?
+    A. Saint Paul
+
+    B. Trenton
+
+    C. Lincoln
+
+    D. Salem
+
+37. What is the capital ofAlabama?
+    A. Jefferson City
+
+    B. Concord
+
+    C. Montgomery
+
+    D. Atlanta
+
+38. What is the capital ofNorth Dakota?
+    A. Denver
+
+    B. Saint Paul
+
+    C. Montpelier
+
+    D. Bismarck
+
+39. What is the capital ofOregon?
+    A. Salem
+
+    B. Lincoln
+
+    C. Sacramento
+
+    D. Jackson
+
+40. What is the capital ofArkansas?
+    A. Hartford
+
+    B. Oklahoma City
+
+    C. Santa Fe
+
+    D. Little Rock
+
+41. What is the capital ofTennessee?
+    A. Indianapolis
+
+    B. Nashville
+
+    C. Albany
+
+    D. Olympia
+
+42. What is the capital ofCalifornia?
+    A. Harrisburg
+
+    B. Sacramento
+
+    C. Carson City
+
+    D. Lincoln
+
+43. What is the capital ofWashington?
+    A. Annapolis
+
+    B. Columbus
+
+    C. Columbia
+
+    D. Olympia
+
+44. What is the capital ofWest Virginia?
+    A. Boston
+
+    B. Providence
+
+    C. Des Moines
+
+    D. Charleston
+
+45. What is the capital ofLouisiana?
+    A. Charleston
+
+    B. Baton Rouge
+
+    C. Albany
+
+    D. Denver
+
+46. What is the capital ofMaryland?
+    A. Springfield
+
+    B. Annapolis
+
+    C. Lincoln
+
+    D. Augusta
+
+47. What is the capital ofDelaware?
+    A. Trenton
+
+    B. Jefferson City
+
+    C. Dover
+
+    D. Des Moines
+
+48. What is the capital ofIllinois?
+    A. Dover
+
+    B. Montpelier
+
+    C. Salt Lake City
+
+    D. Springfield
+
+49. What is the capital ofFlorida?
+    A. Columbus
+
+    B. Columbia
+
+    C. Atlanta
+
+    D. Tallahassee
+
+50. What is the capital ofWyoming?
+    A. Boston
+
+    B. Harrisburg
+
+    C. Madison
+
+    D. Cheyenne
+
