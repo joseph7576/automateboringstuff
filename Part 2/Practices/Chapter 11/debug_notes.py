@@ -60,7 +60,7 @@ By failing fast early in the program’s execution, you can save yourself a lot 
 # enable logging 
 import logging
 # logging.disable(logging.CRITICAL) #? Disables logging :D
-logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logging.basicConfig(filename='myProgramLog.txt', level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s') #? logging to a file 
 
 #  when Python logs an event, it creates a LogRecord object that holds information about that event.
