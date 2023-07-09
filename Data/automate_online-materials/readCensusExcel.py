@@ -3,13 +3,20 @@
 # each county.
 
 import openpyxl, pprint
+from pathlib import Path
+cwd = Path.cwd()
+xlsxPath = cwd / 'Data' / 'automate_online-materials'
+
+
+
 print('Opening workbook...')
-wb = openpyxl.load_workbook('censuspopdata.xlsx')
+
+wb = openpyxl.load_workbook(xlsxPath / 'censuspopdata.xlsx')
 sheet = wb.get_sheet_by_name('Population by Census Tract')
 countyData = {}
 # Fill in countyData with each county's population and tracts.
 print('Reading rows...')
-for row in range(2, sheet.get_highest_row() + 1):
+for row in range(2, sheet.max_row + 1):
     # Each row in the spreadsheet has data for one census tract.
     state  = sheet['B' + str(row)].value
     county = sheet['C' + str(row)].value
@@ -27,7 +34,8 @@ for row in range(2, sheet.get_highest_row() + 1):
 
 # Open a new text file and write the contents of countyData to it.
 print('Writing results...')
-resultFile = open('census2010.py', 'w')
-resultFile.write('allData = ' + pprint.pformat(countyData))
+dataPath = cwd / 'Data' / 'Chapter 13'
+resultFile = open(dataPath / 'census2010.py', 'w')
+resultFile.write('allData = ' + pprint.pformat(countyData)) #? it used pformat! -> it will return every thing as string.
 resultFile.close()
 print('Done.')
