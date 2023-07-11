@@ -11,27 +11,32 @@ if len(sys.argv) < 2:
     sys.exit()
 location = ' '.join(sys.argv[1:])
 
+url = f'http://api.openweathermap.org/geo/1.0/direct?q={location}&appid={APPID}'
+print(url)
+resp = requests.get(url)
+print(resp.json())
+
 # Download the JSON data from OpenWeatherMap.org's API.
-url ='https://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3&APPID=%s ' % (location, APPID)
-response = requests.get(url)
-response.raise_for_status()
+# url ='https://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3&APPID=%s ' % (location, APPID)
+# response = requests.get(url)
+# response.raise_for_status()
 
-# Uncomment to see the raw JSON text:
-print(response.text)    
+# # Uncomment to see the raw JSON text:
+# print(response.text)    
 
-   # Load JSON data into a Python variable.
-weatherData = json.loads(response.text)
+#    # Load JSON data into a Python variable.
+# weatherData = json.loads(response.text)
 
-# Print weather descriptions.
-w = weatherData['list']
-print('Current weather in %s:' % (location))
-print(w[0]['weather'][0]['main'], '-', w[0]['weather'][0]['description'])
-print()
-print('Tomorrow:')
-print(w[1]['weather'][0]['main'], '-', w[1]['weather'][0]['description'])
-print()
-print('Day after tomorrow:')
-print(w[2]['weather'][0]['main'], '-', w[2]['weather'][0]['description'])
+# # Print weather descriptions.
+# w = weatherData['list']
+# print('Current weather in %s:' % (location))
+# print(w[0]['weather'][0]['main'], '-', w[0]['weather'][0]['description'])
+# print()
+# print('Tomorrow:')
+# print(w[1]['weather'][0]['main'], '-', w[1]['weather'][0]['description'])
+# print()
+# print('Day after tomorrow:')
+# print(w[2]['weather'][0]['main'], '-', w[2]['weather'][0]['description'])
 
 ''' other ideas
 
